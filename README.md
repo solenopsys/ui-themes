@@ -1,2 +1,2 @@
-## MODALS
+## Themes
 Themes module for UIMATRIX
