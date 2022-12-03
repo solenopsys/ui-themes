@@ -1,4 +1,5 @@
 {
+  "name": "themes",
   "projectType": "library",
   "sourceRoot": "libs/fui/colors/src",
   "prefix": "hyperconverged",
