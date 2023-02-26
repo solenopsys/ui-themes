@@ -1,5 +1,5 @@
 {
-  "name": "themes",
+  "name": "ui-themes",
   "projectType": "library",
   "sourceRoot": "packages/uimatrix/ui-themes/src",
   "prefix": "ui",
