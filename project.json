@@ -1,16 +1,16 @@
 {
   "name": "themes",
   "projectType": "library",
-  "sourceRoot": "packages/uimatrix/themes/src",
+  "sourceRoot": "packages/uimatrix/ui-themes/src",
   "prefix": "ui",
   "targets": {
     "test": {
       "executor": "@nrwl/jest:jest",
       "outputs": [
-        "coverage/packages/uimatrix/themes"
+        "coverage/packages/uimatrix/ui-themes"
       ],
       "options": {
-        "jestConfig": "packages/uimatrix/themes/jest.config.js",
+        "jestConfig": "packages/uimatrix/ui-themes/jest.config.js",
         "passWithNoTests": true
       }
     },
@@ -18,8 +18,8 @@
       "executor": "@nrwl/linter:eslint",
       "options": {
         "lintFilePatterns": [
-          "packages/uimatrix/themes/src/**/*.ts",
-          "packages/uimatrix/themes/src/**/*.html"
+          "packages/uimatrix/ui-themes/src/**/*.ts",
+          "packages/uimatrix/ui-themes/src/**/*.html"
         ]
       },
       "outputs": [
