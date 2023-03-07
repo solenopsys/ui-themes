@@ -28,7 +28,7 @@ export class ColorSchemesService {
       groupBackground: '#f5f4f4',
     }, black: {
       background: '#282626',
-      font: '#ffffff',
+      font: '#afacac',
       tableHeader: '#494848',
       topPaneBackground: '#171717',
       invertIcons: 'invert(100%)',
